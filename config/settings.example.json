@@ -1,0 +1,11 @@
+{
+  "language": "ru",
+  "lm_studio_url": "http://127.0.0.1:1234",
+  "model_ids": {
+    "E2B": "google/gemma-4-e2b",
+    "E4B": "google/gemma-4-e4b",
+    "12B": "google/gemma-4-12b"
+  },
+  "reuse_loaded_e4b": true,
+  "collect_feedback_labels": false
+}

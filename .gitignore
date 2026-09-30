@@ -1,0 +1,17 @@
+# User settings, requests, responses and local data
+config/settings.json
+feedback/
+benchmark_runs/
+data/training/real_requests.jsonl
+classifier/candidates/
+classifier/archive/
+
+# Downloaded model weights and caches
+models/
+.cache/
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
